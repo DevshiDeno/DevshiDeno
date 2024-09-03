@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Dennis Muturi kamau.<br>I'm a passionate Flutter developer with a knack for building <br>seamless mobile applications.<br> I specialize in creating responsive and performant apps using Flutter and Dart, <br>focusing on clean code practices and intuitive UI/UX design.
+👋 Hi there! I'm Dennis Muturi Kamau.<br>I'm a passionate Flutter developer with a knack for building <br>seamless mobile applications.<br> I specialize in creating responsive and performant apps using Flutter and Dart, <br>focusing on clean code practices and intuitive UI/UX design.
 
 
 ## 🌐 Socials:
@@ -10,7 +10,7 @@
 </div>
 
 # 💻 Tech Stack:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-DevshiDeno&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevshiDeno&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DevshiDeno&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -29,11 +29,9 @@
 
   ## 💰 You can help me by Donating
 <div id="badges">
-  <a href="https://www.linkedin.com/in/dennis-muturi-2524441b2/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-   <a href="buymeacoffee.com/marleydenos">
-    <img src="https://img.shields.io/badge/buy-me-coffee?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+   <a href="https://buymeacoffee.com/marleydenos" target="_blank">
+    <img src="https://img.shields.io/badge/buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
   </a>
 </div>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
